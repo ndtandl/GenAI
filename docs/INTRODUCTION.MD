@@ -9,7 +9,7 @@ Customize prompts: Prompts are instructions given to the LLM that guide its resp
 Build complex applications: By combining different LangChain components, developers can create sophisticated applications that leverage the capabilities of LLMs.
 Overall, LangChain aims to make LLM development more accessible and efficient, enabling a wider range of developers to build innovative applications powered by these powerful language models.
 
-<img src="image.png" width="2000">
+<img src="image-9.png" width="2000">
 
 
 # What is VecterDB
@@ -18,11 +18,11 @@ Overall, LangChain aims to make LLM development more accessible and efficient, e
 <img src="image-6.png" width="2000">
 
 <!-- <img src="image-3.png" width="2000"> -->
-## Approximate nearest neighbours (ANN)
-<img src="image-5.png" width="2000">
+<!-- ## Approximate nearest neighbours (ANN) -->
 
 ## Generative QA: “Chatting with your data”
-<img src="image-7.png" width="2000">
+<!-- <img src="image-7.png" width="2000"> -->
+<img src="image-5.png" width="2000">
 
 ## Database
 <img src="image-8.png" width="2000">
